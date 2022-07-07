@@ -3,19 +3,19 @@
 		"status": "1",
 		"toolbar": "true",
 		"navigation_drawer": "true",
-		"geolocation": "false",
-		"cache": "false",
+		"geolocation": "true",
+		"cache": "true",
 		"open_link_in_external_browser": "false",
 		"privacy_policy_url": "https://randikadendin.github.io/w/privacy.html",
 		"more_apps_url": "https://play.google.com/store/apps/dev?id=7349666530728896835",
-		"redirect_url": "https://www.google.com"
+		"redirect_url": ""
 	},	
 	"menus": [
 		{
 			"name": "Home",
 			"type": "url",
 			"icon": "https://shinobijawi.id/wp-content/uploads/2022/07/LOGO-SHINOBIJAWI.png",
-			"url": "https://shinobijawi.id/?s="
+			"url": "https://shinobijawi.id/"
 		},
 		{
 			"name": "Portfolio",
@@ -42,7 +42,7 @@
 		"onesignal_app_id": "00000000-0000-0000-0000-000000000000"
 	},
 	"ads": {
-		"ad_status": "0",
+		"ad_status": "1",
 		"ad_type": "applovin",
 		"backup_ads": "none",
 		"admob_publisher_id": "",
